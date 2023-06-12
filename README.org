@@ -1,0 +1,10 @@
+* gadgets
+
+Ben McGunigle's utility collection
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/BnMcGn/gadgets.git   |
+| commit  | 41aa688  |
+| systems | gadgets |
+|---------+-------------------------------------------|
+
