@@ -3,8 +3,7 @@
 Ben McGunigle's utility collection
 
 |---------+-------------------------------------------|
-| source  | git:https://github.com/BnMcGn/gadgets.git   |
-| commit  | 41aa688  |
-| systems | gadgets |
+| source  | git:https://github.com/BnMcGn/gadgets.git |
+| commit  | c1885c1                                   |
+| systems | gadgets                                   |
 |---------+-------------------------------------------|
-
