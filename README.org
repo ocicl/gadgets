@@ -4,6 +4,6 @@ Ben McGunigle's utility collection
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/BnMcGn/gadgets.git |
-| commit  | 2a9908a                                   |
+| commit  | 4f668eb                                   |
 | systems | gadgets                                   |
 |---------+-------------------------------------------|
